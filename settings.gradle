@@ -1,0 +1,2 @@
+rootProject.name='2_kt_fizzbuzz'
+include ':app'
